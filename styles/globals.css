@@ -1,0 +1,17 @@
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p, span{
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 36px;
+}
