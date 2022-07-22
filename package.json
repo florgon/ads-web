@@ -13,7 +13,7 @@
     "@kirillzhosul/florgon-auth-api": "0.2.5",
     "@popperjs/core": "^2.11.5",
     "bootstrap": "^5.1.3",
-    "next": "12.1.6",
+    "next": "12.2.3",
     "react": "18.1.0",
     "react-bootstrap": "^2.3.1",
     "react-cookie": "^4.1.1",
